@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 A diligent student striving to expand the expanse of his knowledge.
 
  
-
+<!--
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=jagadeeshramd&show_icons=true" alt="jagadeeshramd" /></p>
-
+-->
  
 
 

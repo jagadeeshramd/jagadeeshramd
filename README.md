@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
  
 
-A diligent student striving to expand the expanse of his knowledge.
+<!--A diligent student striving to expand the expanse of his knowledge.-->
 
  
 <!--
